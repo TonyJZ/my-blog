@@ -1,4 +1,5 @@
-# frontend-learning
+# my-blogs
+record my learning & thinking
 
 ## Uncategorized
 
