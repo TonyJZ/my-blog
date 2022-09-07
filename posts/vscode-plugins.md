@@ -3,7 +3,7 @@
 ## Todos
 - [x] VSCode是什么
 - [x] VSCode插件开发
-- [ ] 插件开发实践
+- [x] 插件开发实践
 ## Table of Contents
   * [VSCode是什么](##VSCode是什么)
     * [发展历程](###发展历程)
