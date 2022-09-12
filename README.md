@@ -11,9 +11,13 @@ record my learning & thinking
 - [ ] [How to build 3D web application with react-three-fiber]
 - [ ] [Monorepo]
 - [ ] [js异常处理]
+- [ ] [OAuth](posts/OAuth.md)
 
 ## Readings
 - [ ] [Guns, Germs and Steel: The Fates of Human Societies 枪炮, 病菌与钢铁]
 - [ ] [A Brief History of humankind 人类简史]
 - [ ] 超级合作者
 - [ ] 自私的基因
+
+## Development Kits
+- [x] [Git使用方法](posts/Git%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)
